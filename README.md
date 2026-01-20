@@ -36,7 +36,7 @@ The game logic is built upon a deterministic algebraic proof. While it appears t
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/zafri-rafi/mind-game.git
+git clone https://github.com/zafri-rafi/Mind-Game.git
 cd mind-game
 
 ```
